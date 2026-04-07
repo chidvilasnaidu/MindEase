@@ -1,0 +1,10 @@
+sample questions across 8 categories — filter by topic and click "Try this" to send directly to the chat. Here's what each category tests:
+
+General — opening lines, users who don't know how to start
+Stress — exams, work pressure, overthinking
+Anxiety — panic attacks, social anxiety, future worry
+Low mood — sadness, loss of interest, feeling like a burden
+Sleep — insomnia, racing thoughts at night
+Relationships — loneliness, breakups, family conflict
+Coping — user asking for techniques (mindfulness, breathing)
+Crisis — hopelessness, dark thoughts (these should trigger the crisis response correctly now that the bug is fixed)
