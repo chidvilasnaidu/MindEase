@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# SSH Keys
+*.pem
+
+# Virtual environment
+venv/
+__pycache__/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+app.log
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
