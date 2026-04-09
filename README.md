@@ -207,6 +207,7 @@ pkill -f "streamlit run"
 ```
 
 ---
+## 🌐 Live Demo (AWS-EC2) : http://13.62.231.255:8501/
 
 ## ✨ Key Features
 
