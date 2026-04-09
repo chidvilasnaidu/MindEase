@@ -143,7 +143,7 @@ GEMINI_API_KEY=your_actual_key_here
 ```bash
 streamlit run app.py
 ```
-Visit: **http://localhost:8501**
+## Visit: **http://13.62.231.255:8501/**
 
 ---
 
