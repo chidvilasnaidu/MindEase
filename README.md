@@ -260,7 +260,7 @@ Contributions are welcome! Please open an issue before submitting a PR.
 
 ## 📄 License
 
-MIT License © 2026 MindEase
+MIT License © 2026 MindEase, all 
 
 ---
 
