@@ -1,4 +1,4 @@
-# 🌿 MindEase — AI Mental Health Support Chatbot
+# 🌿 MindEase — AI Mental Health Support Chatbot a
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
