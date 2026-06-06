@@ -1,7 +1,3 @@
-"""
-main.py - Streamlit UI for MindEase Mental Health Support Chatbot.
-"""
-
 import streamlit as st
 from config import GEMINI_API_KEY
 from gemini_client import generate_response
