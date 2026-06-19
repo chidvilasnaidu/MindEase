@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-sssss
+sss
 <p align="center">
   <b>A production-ready, domain-specific AI chatbot for mental health support.</b><br/>
   Powered by Google Gemini API · Built with clean architecture · Deployed on AWS EC2
