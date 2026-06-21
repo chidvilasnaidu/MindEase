@@ -20,7 +20,7 @@ MindEase is a production-grade mental health support chatbot that provides a saf
 It is **not a replacement for therapy** — it is a compassionate first step, built with real engineering standards, CBT-based prompt engineering, and a crisis detection safety layer.
 
 ---
-npk
+
 ## ✨ Key Features
 
 | Feature | Description |
