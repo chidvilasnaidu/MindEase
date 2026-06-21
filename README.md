@@ -8,7 +8,7 @@
 </p>
 <p align="center">njk
   <b>A production-ready, domain-specific AI chatbot for mental health support.</b><br/>
-  Powered by Google Gemini API · Built with clean architecture · Deployed on AWS EC2
+  Powered by Google Gemini API · Built with clean architecture · Deployed on AWS EC2230
 </p>
 
 ---
