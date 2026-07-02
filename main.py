@@ -1,8 +1,8 @@
 import streamlit as st 
 from config import GEMINI_API_KEY
-from gemini_client import generate_response
+from gemini_client import generate_response 
 from prompts import SYSTEM_PROMPT, WELCOME_MESSAGE 
-from session_manager import SessionManager
+from session_manager import SessionManager 
 
 st.set_page_config(
     page_title="MindEase – Mental Health Support",
