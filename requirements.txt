@@ -2,3 +2,4 @@ streamlit
 google-genai
 python-dotenvs
 s
+s
