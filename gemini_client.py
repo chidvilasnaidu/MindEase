@@ -9,7 +9,7 @@ from config import (
 )
 
 logger = logging.getLogger("gemini_client")
-
+ 
 CRISIS_KEYWORDS = [
     "suicide", "kill myself", "end my life", "self-harm", "hurt myself",
     "don't want to live", "want to die", "cutting myself"
