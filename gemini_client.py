@@ -7,7 +7,7 @@ from config import (
     TEMPERATURE,
     MAX_OUTPUT_TOKENS,
 )
-
+ 
 logger = logging.getLogger("gemini_client")
  
 CRISIS_KEYWORDS = [
