@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 What is MindEase?
+## 📌 What is MindEase??????????
 
 MindEase is a production-grade mental health support chatbot that provides a safe, judgment-free space for users to talk about stress, anxiety, low mood, sleep issues, relationships, and more.
 
