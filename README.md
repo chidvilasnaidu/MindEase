@@ -244,7 +244,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please open an issue before submitting a PR.
 
