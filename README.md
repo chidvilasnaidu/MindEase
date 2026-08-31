@@ -21,7 +21,7 @@ It is **not a replacement for therapy** — it is a compassionate first step, bu
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
