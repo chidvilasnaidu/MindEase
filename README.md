@@ -200,7 +200,7 @@ pkill -f "streamlit run"
 
 ---
 
-## 🛡️ Safety & Ethics
+##  Safety & Ethics
 
 - MindEase explicitly states it is **not a licensed therapist** and cannot diagnose or prescribe
 - Crisis keywords trigger an **immediate safety override** with emergency helpline details
