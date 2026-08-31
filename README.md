@@ -105,7 +105,7 @@ User Input
 
 ---
 
-## 🚀 Local Setup
+## Local Setup
 
 ### Prerequisites
 - Python 3.10+
