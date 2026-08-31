@@ -222,7 +222,7 @@ pkill -f "streamlit run"
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```txt
 streamlit
