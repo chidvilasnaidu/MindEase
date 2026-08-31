@@ -256,7 +256,7 @@ Contributions are welcome! Please open an issue before submitting a PR.
 
 ---
 
-## 📄 License
+##  License
 
 MIT License © 2026 MindEase, all 
 
