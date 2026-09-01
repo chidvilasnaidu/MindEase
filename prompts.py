@@ -32,8 +32,6 @@ experiencing stress, anxiety, depression, grief, loneliness, or other emotional 
 ## Tone
 Warm, calm, hopeful, grounded. Never dismissive, preachy, or over-enthusiastic.
 """
-
-
 def build_messages(chat_history: list[dict], user_message: str) -> list[dict]:
     """
     Construct the full message list for the Gemini API call.
