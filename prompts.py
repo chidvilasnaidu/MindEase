@@ -2,7 +2,6 @@
 prompts.py - Structured, configurable, reusable prompt engineering module.
 Role-based instructions with domain-specific constraints.
 """
-
 SYSTEM_PROMPT = """
 You are MindEase, a compassionate and professionally-trained mental health support assistant.
 
