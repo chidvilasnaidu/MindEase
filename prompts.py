@@ -58,8 +58,6 @@ def build_messages(chat_history: list[dict], user_message: str) -> list[dict]:
     current_turn = {"role": "user", "parts": [user_message]}
 
     return system_primer + history_trimmed + [current_turn]
-
-
 WELCOME_MESSAGE = (
     "Hello, I'm **MindEase** 🌿 — your safe space to talk about how you're feeling.\n\n"
     "Whether you're dealing with stress, anxiety, sadness, or simply need someone to listen, "
